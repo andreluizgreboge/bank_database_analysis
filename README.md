@@ -1,4 +1,4 @@
-<h1>credit-database_analysis</h1>
+<h1>bank_database_analysis</h1>
 
 <h2> Esse código é um treino de filtragem com Python, utilizando o pandas </h2>
 
