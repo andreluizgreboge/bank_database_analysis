@@ -29,3 +29,6 @@ Para cada campanha/ação, gere os seguintes relatórios (pode ser em excel e jp
 
 5 - o valor a ser liberado na linha de crédito imediata
 
+![Figure_1](https://user-images.githubusercontent.com/53190186/134779782-6bf4661d-33fa-4123-9b32-81c821cf3587.png)
+
+
